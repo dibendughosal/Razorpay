@@ -33,7 +33,7 @@ A fully functional payment gateway system inspired by Razorpay, designed to prov
 
 ## **Tech Stack**
 
-- **Frontend**: React.js, Tailwind CSS  
+- **Frontend**: HTML,React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Redis (for caching)  
 - **Security**: OAuth 2.0, JWT, SSL/TLS  
